@@ -9,6 +9,6 @@ A análise utiliza o arquivo 'p05_delivery.csv', contendo 10.000 pedidos recente
 - **distancia_km**: Distância entre o restaurante e o cliente.
 - **tempo_min**: Tempo em minutos entre o pedido e a entrega.
 
-## 🛠️ Tecnologia Utilizadas
+## 🛠️ Tecnologias Utilizadas
 - **Python**: Pandas, SciPy, Matplotlib e Seaborn.
 - **Google Colab**: Para a execução das análises estatísticas e teste de hipótese.
