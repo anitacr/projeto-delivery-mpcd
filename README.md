@@ -1,6 +1,6 @@
 # Análise de Aplicativos de Delivery
 
-## 📍 Contexto: 
+## 📍 Contexto
 Uma rede de restaurantes trabalha com dois aplicativos de entrega, **RapidoJa** e **ComeBem**, e precisa decidir com qual renovará o contrato. Ambos prometem entregas em 35 minutos, e a rede oferece desconto ao cliente se a entrega ultrapassar 50 minutos.
 
 ## 📊 Base de Dados
