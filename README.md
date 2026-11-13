@@ -11,4 +11,4 @@ A análise utiliza o arquivo 'p05_delivery.csv', contendo 10.000 pedidos recente
 
 ## 🛠️ Tecnologias Utilizadas
 - **Python**: Pandas, SciPy, Matplotlib e Seaborn.
-- **Google Colab**: Para a execução das análises estatísticas e teste de hipótese.
+- **Jupyter Notebook - VsCode**: Para a execução das análises estatísticas e teste de hipótese.
